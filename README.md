@@ -4,6 +4,7 @@
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/855748035832971284.png"/>
+  <img src="https://discord.c99.nl/widget/theme-4/836591651895640074.png"/>
 </p>
 <p align="center">
 Currently learning JavaScript
