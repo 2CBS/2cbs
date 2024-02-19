@@ -9,4 +9,4 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    <a href="https://metas.codes">MetasCodes - Pastebin & Chatroom</a>
+    <a href="https://metas.codes">MetasCodes - Pastebin, Chatroom, Generators & APIs </a>
